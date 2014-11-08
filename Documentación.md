@@ -1,4 +1,4 @@
-# ArduFalls, dispositivo para alertar de caidas como sistema vestible
+# ArduFalls, dispositivo para alertar de caídas como sistema vestible
 
 ### Proyecto para la asignatura Tecnologías Emergentes
 
