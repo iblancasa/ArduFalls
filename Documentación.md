@@ -19,4 +19,4 @@
 
 ### Primeros pasos
 
-Conectamos nuestro acelerómetro al Arduino como podemos ver en la [imagen](http://i.imgur.com/vv8DyFS.jpg)
+Conectamos nuestro acelerómetro al Arduino como podemos ver en la ![imagen](http://i.imgur.com/vv8DyFS.jpg)
