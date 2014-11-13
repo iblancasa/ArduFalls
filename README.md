@@ -31,7 +31,7 @@ y el esquema de conexión del Arduino y el acelerómetro sería:
 
 
 ###Demo
-<iframe width="560" height="315" src="//www.youtube.com/embed/6oABzN52EME" frameborder="0" allowfullscreen></iframe>
+[Vídeo demo del prototipo](http://youtu.be/6oABzN52EME)
 
 
 ###Autores
