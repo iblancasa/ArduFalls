@@ -20,3 +20,8 @@
 ### Primeros pasos
 
 Conectamos nuestro acelerómetro al Arduino como podemos ver en la imagen: ![imagen](http://i.imgur.com/vv8DyFS.jpg)
+
+
+El esquema de conexión entre el Arduino y el Bluetooth:
+
+![bluetooth](http://i.imgur.com/ZH21MA7.png)  realizado a partir de [este circuito](http://i.imgur.com/7PXdYiF.jpg)  
