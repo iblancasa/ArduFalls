@@ -29,6 +29,12 @@ y el esquema de conexión del Arduino y el acelerómetro sería:
 ![Acelerómetro](http://i.imgur.com/VzwZ8SL.png)  realizado a partir de [este circuito](http://i.imgur.com/A0FptY2.jpg)  
 
 
+Y por último la "unión" con el bluetooth y el acelorómetro:
+
+![img](http://i.imgur.com/gy0zjyj.png) 
+
+
+
 
 ###Demo
 [Vídeo demo del prototipo](http://youtu.be/6oABzN52EME)
